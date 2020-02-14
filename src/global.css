@@ -1,0 +1,20 @@
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.breadcrumb{
+	padding: 0px 20px;
+}
+
+.gutter-example .ant-row > div {
+  background: transparent;
+  border: 0;
+}
+.gutter-box {
+  background: #fff;
+  padding: 10px;
+}
